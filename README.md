@@ -1,1 +1,1 @@
-updating 0x002 shell redirecrection
+updating 0x002 shell redirection
