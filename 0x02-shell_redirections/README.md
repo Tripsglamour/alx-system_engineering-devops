@@ -1,1 +1,1 @@
-hello world redirection
+A program to output hello world
