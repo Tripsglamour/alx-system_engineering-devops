@@ -3,5 +3,6 @@ Display the content of 2 files
 Display the last 10 lines of etc/passwd
 Display the first 10 lines of a file
 Script that displaces the rhird line of a file
-A shell script that creates a file nam
-shell script that creates a file namee
+A shell script that creates a filei
+shell script that creates a file nam
+A script thar writes into the file
