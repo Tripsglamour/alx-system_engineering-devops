@@ -6,3 +6,4 @@ Script that displaces the rhird line of a file
 A shell script that creates a filei
 shell script that creates a file nam
 A script thar writes into the file
+A script that duplicates the last line of a file
