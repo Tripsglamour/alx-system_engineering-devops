@@ -10,4 +10,5 @@ A script that duplicates the last line of a file
 A script that deletes files ending in .js
 A script can contains directories and subdirectorie
 a script that displays the 10 newest files in the current director
-a script that takes a list of words as input and prints only words that appear exactly oncey
+a script that takes a list of words as input and prints only words that appear exactly once
+"Display lines containing the pattern “root” from the file /etc/passwd"
